@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local session databases and data storage
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Downloaded Binaries
+bin/
